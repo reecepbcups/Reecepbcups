@@ -12,18 +12,19 @@ class Reece:
         ('AAS', "2 years"), 
         ('B.S, Information Tech', "92 days")
       ],      
-      'languages': [
+      'production_languages': [
         'Python', 'Java'
         'Golang', 'Rust' 
         'Typescript', 'Bash'
+        'Solidity'
       ],
       'databases': ['MySQL', 'MongoDB', 'Redis'],
-      'devops': ["Docker", "Akash", "Nginx"],
+      'devops': ["Docker", "Nginx", "Akash"],
       'blockchain': [
         "CosmosSDK v45+",
         "Indexing"
-        "CosmWasm", 
-        "Minecraft Java Integration -> CosmosSDK"
+        "Minecraft Java Integration -> CosmosSDK",
+        "Cosmos x EVM"
       ],
       'misc': {
           "linux": ['Arch', 'Debian/Ubuntu'],          
