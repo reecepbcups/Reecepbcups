@@ -6,7 +6,7 @@ class Reece:
   web = 'https://reece.sh'
   twitter = '@reecepbcups_'
   discord = 'reecepbcups'
-  work_log = 'https://work.reece.sh'
+  telegram = 'https://t.me/Reecepbcups'
   information = {
       'degrees': [
         ('AAS', "2 years"), 
